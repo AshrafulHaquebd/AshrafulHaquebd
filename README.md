@@ -5,8 +5,6 @@
 
 Welcome to my GitHub repository! I'm a junior frontend web developer passionate about creating engaging and user-friendly web experiences. This space showcases my projects and contributions.
 
-![Coding GIF](https://i.ibb.co/bLnCVYs/coding-gif.gif)
-
 
 ## 📬 Contact
 
@@ -34,6 +32,8 @@ Description of the project.
 - CSS3
 - JavaScript
 - React
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafulHaquebd)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Connect with Me
 
