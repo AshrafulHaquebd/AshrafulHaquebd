@@ -50,6 +50,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshrafulHaquebd&show_icons=true&count_private=true)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AshrafulHaquebd)
+
 <!--
 **AshrafulHaquebd/AshrafulHaquebd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
