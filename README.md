@@ -5,15 +5,6 @@
 
 Welcome to my GitHub repository! I'm a junior frontend web developer passionate about creating engaging and user-friendly web experiences. This space showcases my projects and contributions.
 
-
-## 📬 Contact
-
-Feel free to reach out to me through the following channels:
-
-- **Email:** your.email@example.com 📧
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/) 🔗
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) 🐦
-
 ## 🚀 Projects
 
 Here are some of the projects you can find in this repository:
@@ -40,9 +31,13 @@ Description of the project.
 - [Portfolio](https://your-portfolio-website.com) 💼
 - [Blog](https://your-blog-website.com) 📝
 
-## 📞 How to Reach Me
+## 📬 Contact
 
-Feel free to connect with me via email or social media. I'm always open to new opportunities, collaborations, or just chatting about web development!
+Feel free to reach out to me through the following channels:
+
+- **Email:** ashrafwebdevbd@gmail.com 📧
+- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/developer-ashraful-haque/)) 🔗
+- **Twitter:** [@YourTwitterHandle]([https://twitter.com/YourTwitterHandle](https://twitter.com/ashraf_webdev)) 🐦
 
 ## 📝 License
 
