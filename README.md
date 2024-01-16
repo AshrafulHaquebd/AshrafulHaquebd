@@ -37,7 +37,7 @@ Feel free to reach out to me through the following channels:
 
 - **Email:** ashrafwebdevbd@gmail.com 📧
 - **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/developer-ashraful-haque/)) 🔗
-- **Twitter:** [@YourTwitterHandle]([https://twitter.com/YourTwitterHandle](https://twitter.com/ashraf_webdev)) 🐦
+- **Twitter:** [twitter](https://twitter.com/ashraf_webdev) 🐦
 
 ## 📝 License
 
