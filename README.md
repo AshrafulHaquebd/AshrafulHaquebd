@@ -36,7 +36,7 @@ Description of the project.
 Feel free to reach out to me through the following channels:
 
 - **Email:** ashrafwebdevbd@gmail.com 📧
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/developer-ashraful-haque/)) 🔗
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/developer-ashraful-haque/) 🔗
 - **Twitter:** [twitter](https://twitter.com/ashraf_webdev) 🐦
 
 ## 📝 License
