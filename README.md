@@ -48,7 +48,7 @@ Feel free to connect with me via email or social media. I'm always open to new o
 
 This project is licensed under the [MIT License](LICENSE).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafulHaquebd)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshrafulHaquebd&show_icons=true&count_private=true)
 
 <!--
 **AshrafulHaquebd/AshrafulHaquebd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
