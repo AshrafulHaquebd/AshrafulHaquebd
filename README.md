@@ -52,6 +52,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AshrafulHaquebd)
 
+![](https://komarev.com/ghpvc/?username=AshrafulHaquebd&color=green)
+
 <!--
 **AshrafulHaquebd/AshrafulHaquebd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
